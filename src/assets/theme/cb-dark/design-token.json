@@ -574,11 +574,5 @@
         }
       }
     }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "global"
-    ]
   }
 }
